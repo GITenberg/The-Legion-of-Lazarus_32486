@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32486#The-Legion-of-Lazarus
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
